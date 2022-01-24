@@ -48,3 +48,22 @@
   jbryanmcgrath   is my github username
   
   Please reach me here for further questions. 
+https://share.getcloudapp.com/jkum4QvR
+
+screenshare of initializing db in mysql shell, seeding the db with "npm run seed", and starting the server.
+
+https://share.getcloudapp.com/7KuqEmkG
+
+screenshare of all Category CRUD operations for categories in Insomnia
+
+https://share.getcloudapp.com/z8ukr8Gx
+
+screenshare of all Product CRUD operations for categories in Insomnia
+
+https://share.getcloudapp.com/9ZuDQjyL
+
+screenshare of all Tag CRUD operations for categories in Insomnia
+
+https://github.com/jbryanmcgrath/e-commerce
+
+github repo
